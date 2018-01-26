@@ -1,4 +1,4 @@
-# Global-and-Local-Structure-based Neural Network for Fault Detection
+# Neighborhood Preserving Neural Network for Fault Detection
 
 ## Requirements
 * python3.5
@@ -7,4 +7,4 @@
 * pytorch
 
 ## Run on linux
-* python3 glsnn.py
+* python3 npnn.py
